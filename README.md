@@ -19,5 +19,6 @@ This is a dynamic landing page deployed on an Ubuntu server using Nginx.
 http://http://ec2-13-48-46-182.eu-north-1.compute.amazonaws.com/index.html
 
 ## 🖼️ Screenshot
-![image](https://github.com/user-attachments/assets/9b773e2b-e1ad-443e-a1bb-26506d7b1311)
+![image](https://github.com/user-attachments/assets/df31ff78-a39f-42b2-b426-a5ca9156b636)
+
 
